@@ -28,6 +28,6 @@ This project was developed as part of an Object-Oriented Programming course and 
 
 - JDBC
 
-CSV file handling
+- CSV file handling
 
-IntelliJ IDEA
+- IntelliJ IDEA
